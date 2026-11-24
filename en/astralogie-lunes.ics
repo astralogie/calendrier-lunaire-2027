@@ -1,0 +1,348 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Astralogie//Calendrier du ciel//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Astralogie, new and full moons
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:20261010T1550-lune@astralogie.com
+DTSTAMP:20261023T164935Z
+DTSTART:20261010T155000Z
+DTEND:20261010T162000Z
+SUMMARY:New moon in Libra
+DESCRIPTION:Start of a lunar cycle of 29.5 days. The mood of Libra colors t
+ he weeks ahead: a marker for setting an intention. https://astralogie.com/
+ calendar/
+URL:https://astralogie.com/calendar/
+END:VEVENT
+BEGIN:VEVENT
+UID:20261026T0412-lune@astralogie.com
+DTSTAMP:20261023T164935Z
+DTSTART:20261026T041200Z
+DTEND:20261026T044200Z
+SUMMARY:Full moon in Taurus
+DESCRIPTION:The Moon faces the Sun and shines all night. Symbolic reading: 
+ a point of culmination\, the moment to see what has ripened since the new 
+ moon. https://astralogie.com/calendar/
+URL:https://astralogie.com/calendar/
+END:VEVENT
+BEGIN:VEVENT
+UID:20261109T0702-lune@astralogie.com
+DTSTAMP:20261023T164935Z
+DTSTART:20261109T070200Z
+DTEND:20261109T073200Z
+SUMMARY:New moon in Scorpio
+DESCRIPTION:Start of a lunar cycle of 29.5 days. The mood of Scorpio colors
+  the weeks ahead: a marker for setting an intention. https://astralogie.co
+ m/calendar/
+URL:https://astralogie.com/calendar/
+END:VEVENT
+BEGIN:VEVENT
+UID:20261124T1454-lune@astralogie.com
+DTSTAMP:20261023T164935Z
+DTSTART:20261124T145400Z
+DTEND:20261124T152400Z
+SUMMARY:Full moon in Gemini
+DESCRIPTION:The Moon faces the Sun and shines all night. Symbolic reading: 
+ a point of culmination\, the moment to see what has ripened since the new 
+ moon. https://astralogie.com/calendar/
+URL:https://astralogie.com/calendar/
+END:VEVENT
+BEGIN:VEVENT
+UID:20261209T0052-lune@astralogie.com
+DTSTAMP:20261023T164935Z
+DTSTART:20261209T005200Z
+DTEND:20261209T012200Z
+SUMMARY:New moon in Sagittarius
+DESCRIPTION:Start of a lunar cycle of 29.5 days. The mood of Sagittarius co
+ lors the weeks ahead: a marker for setting an intention. https://astralogi
+ e.com/calendar/
+URL:https://astralogie.com/calendar/
+END:VEVENT
+BEGIN:VEVENT
+UID:20261224T0128-lune@astralogie.com
+DTSTAMP:20261023T164935Z
+DTSTART:20261224T012800Z
+DTEND:20261224T015800Z
+SUMMARY:Full moon in Cancer
+DESCRIPTION:The Moon faces the Sun and shines all night. Symbolic reading: 
+ a point of culmination\, the moment to see what has ripened since the new 
+ moon. https://astralogie.com/calendar/
+URL:https://astralogie.com/calendar/
+END:VEVENT
+BEGIN:VEVENT
+UID:20270107T2025-lune@astralogie.com
+DTSTAMP:20261023T164935Z
+DTSTART:20270107T202500Z
+DTEND:20270107T205500Z
+SUMMARY:New moon in Capricorn
+DESCRIPTION:Start of a lunar cycle of 29.5 days. The mood of Capricorn colo
+ rs the weeks ahead: a marker for setting an intention. https://astralogie.
+ com/calendar/
+URL:https://astralogie.com/calendar/
+END:VEVENT
+BEGIN:VEVENT
+UID:20270122T1217-lune@astralogie.com
+DTSTAMP:20261023T164935Z
+DTSTART:20270122T121700Z
+DTEND:20270122T124700Z
+SUMMARY:Full moon in Leo
+DESCRIPTION:The Moon faces the Sun and shines all night. Symbolic reading: 
+ a point of culmination\, the moment to see what has ripened since the new 
+ moon. https://astralogie.com/calendar/
+URL:https://astralogie.com/calendar/
+END:VEVENT
+BEGIN:VEVENT
+UID:20270206T1556-lune@astralogie.com
+DTSTAMP:20261023T164935Z
+DTSTART:20270206T155600Z
+DTEND:20270206T162600Z
+SUMMARY:New moon in Aquarius
+DESCRIPTION:Start of a lunar cycle of 29.5 days. The mood of Aquarius color
+ s the weeks ahead: a marker for setting an intention. https://astralogie.c
+ om/calendar/
+URL:https://astralogie.com/calendar/
+END:VEVENT
+BEGIN:VEVENT
+UID:20270220T2324-lune@astralogie.com
+DTSTAMP:20261023T164935Z
+DTSTART:20270220T232400Z
+DTEND:20270220T235400Z
+SUMMARY:Full moon in Virgo
+DESCRIPTION:The Moon faces the Sun and shines all night. Symbolic reading: 
+ a point of culmination\, the moment to see what has ripened since the new 
+ moon. https://astralogie.com/calendar/
+URL:https://astralogie.com/calendar/
+END:VEVENT
+BEGIN:VEVENT
+UID:20270308T0930-lune@astralogie.com
+DTSTAMP:20261023T164935Z
+DTSTART:20270308T093000Z
+DTEND:20270308T100000Z
+SUMMARY:New moon in Pisces
+DESCRIPTION:Start of a lunar cycle of 29.5 days. The mood of Pisces colors 
+ the weeks ahead: a marker for setting an intention. https://astralogie.com
+ /calendar/
+URL:https://astralogie.com/calendar/
+END:VEVENT
+BEGIN:VEVENT
+UID:20270322T1044-lune@astralogie.com
+DTSTAMP:20261023T164935Z
+DTSTART:20270322T104400Z
+DTEND:20270322T111400Z
+SUMMARY:Full moon in Libra
+DESCRIPTION:The Moon faces the Sun and shines all night. Symbolic reading: 
+ a point of culmination\, the moment to see what has ripened since the new 
+ moon. https://astralogie.com/calendar/
+URL:https://astralogie.com/calendar/
+END:VEVENT
+BEGIN:VEVENT
+UID:20270406T2351-lune@astralogie.com
+DTSTAMP:20261023T164935Z
+DTSTART:20270406T235100Z
+DTEND:20270407T002100Z
+SUMMARY:New moon in Aries
+DESCRIPTION:Start of a lunar cycle of 29.5 days. The mood of Aries colors t
+ he weeks ahead: a marker for setting an intention. https://astralogie.com/
+ calendar/
+URL:https://astralogie.com/calendar/
+END:VEVENT
+BEGIN:VEVENT
+UID:20270420T2227-lune@astralogie.com
+DTSTAMP:20261023T164935Z
+DTSTART:20270420T222700Z
+DTEND:20270420T225700Z
+SUMMARY:Full moon in Scorpio
+DESCRIPTION:The Moon faces the Sun and shines all night. Symbolic reading: 
+ a point of culmination\, the moment to see what has ripened since the new 
+ moon. https://astralogie.com/calendar/
+URL:https://astralogie.com/calendar/
+END:VEVENT
+BEGIN:VEVENT
+UID:20270506T1059-lune@astralogie.com
+DTSTAMP:20261023T164935Z
+DTSTART:20270506T105900Z
+DTEND:20270506T112900Z
+SUMMARY:New moon in Taurus
+DESCRIPTION:Start of a lunar cycle of 29.5 days. The mood of Taurus colors 
+ the weeks ahead: a marker for setting an intention. https://astralogie.com
+ /calendar/
+URL:https://astralogie.com/calendar/
+END:VEVENT
+BEGIN:VEVENT
+UID:20270520T1059-lune@astralogie.com
+DTSTAMP:20261023T164935Z
+DTSTART:20270520T105900Z
+DTEND:20270520T112900Z
+SUMMARY:Full moon in Scorpio
+DESCRIPTION:The Moon faces the Sun and shines all night. Symbolic reading: 
+ a point of culmination\, the moment to see what has ripened since the new 
+ moon. https://astralogie.com/calendar/
+URL:https://astralogie.com/calendar/
+END:VEVENT
+BEGIN:VEVENT
+UID:20270604T1940-lune@astralogie.com
+DTSTAMP:20261023T164935Z
+DTSTART:20270604T194000Z
+DTEND:20270604T201000Z
+SUMMARY:New moon in Gemini
+DESCRIPTION:Start of a lunar cycle of 29.5 days. The mood of Gemini colors 
+ the weeks ahead: a marker for setting an intention. https://astralogie.com
+ /calendar/
+URL:https://astralogie.com/calendar/
+END:VEVENT
+BEGIN:VEVENT
+UID:20270619T0045-lune@astralogie.com
+DTSTAMP:20261023T164935Z
+DTSTART:20270619T004500Z
+DTEND:20270619T011500Z
+SUMMARY:Full moon in Sagittarius
+DESCRIPTION:The Moon faces the Sun and shines all night. Symbolic reading: 
+ a point of culmination\, the moment to see what has ripened since the new 
+ moon. https://astralogie.com/calendar/
+URL:https://astralogie.com/calendar/
+END:VEVENT
+BEGIN:VEVENT
+UID:20270704T0302-lune@astralogie.com
+DTSTAMP:20261023T164935Z
+DTSTART:20270704T030200Z
+DTEND:20270704T033200Z
+SUMMARY:New moon in Cancer
+DESCRIPTION:Start of a lunar cycle of 29.5 days. The mood of Cancer colors 
+ the weeks ahead: a marker for setting an intention. https://astralogie.com
+ /calendar/
+URL:https://astralogie.com/calendar/
+END:VEVENT
+BEGIN:VEVENT
+UID:20270718T1545-lune@astralogie.com
+DTSTAMP:20261023T164935Z
+DTSTART:20270718T154500Z
+DTEND:20270718T161500Z
+SUMMARY:Full moon in Capricorn
+DESCRIPTION:The Moon faces the Sun and shines all night. Symbolic reading: 
+ a point of culmination\, the moment to see what has ripened since the new 
+ moon. https://astralogie.com/calendar/
+URL:https://astralogie.com/calendar/
+END:VEVENT
+BEGIN:VEVENT
+UID:20270802T1005-lune@astralogie.com
+DTSTAMP:20261023T164935Z
+DTSTART:20270802T100500Z
+DTEND:20270802T103500Z
+SUMMARY:New moon in Leo
+DESCRIPTION:Start of a lunar cycle of 29.5 days. The mood of Leo colors the
+  weeks ahead: a marker for setting an intention. https://astralogie.com/ca
+ lendar/
+URL:https://astralogie.com/calendar/
+END:VEVENT
+BEGIN:VEVENT
+UID:20270817T0729-lune@astralogie.com
+DTSTAMP:20261023T164935Z
+DTSTART:20270817T072900Z
+DTEND:20270817T075900Z
+SUMMARY:Full moon in Aquarius
+DESCRIPTION:The Moon faces the Sun and shines all night. Symbolic reading: 
+ a point of culmination\, the moment to see what has ripened since the new 
+ moon. https://astralogie.com/calendar/
+URL:https://astralogie.com/calendar/
+END:VEVENT
+BEGIN:VEVENT
+UID:20270831T1741-lune@astralogie.com
+DTSTAMP:20261023T164935Z
+DTSTART:20270831T174100Z
+DTEND:20270831T181100Z
+SUMMARY:New moon in Virgo
+DESCRIPTION:Start of a lunar cycle of 29.5 days. The mood of Virgo colors t
+ he weeks ahead: a marker for setting an intention. https://astralogie.com/
+ calendar/
+URL:https://astralogie.com/calendar/
+END:VEVENT
+BEGIN:VEVENT
+UID:20270915T2304-lune@astralogie.com
+DTSTAMP:20261023T164935Z
+DTSTART:20270915T230400Z
+DTEND:20270915T233400Z
+SUMMARY:Full moon in Pisces
+DESCRIPTION:The Moon faces the Sun and shines all night. Symbolic reading: 
+ a point of culmination\, the moment to see what has ripened since the new 
+ moon. https://astralogie.com/calendar/
+URL:https://astralogie.com/calendar/
+END:VEVENT
+BEGIN:VEVENT
+UID:20270930T0236-lune@astralogie.com
+DTSTAMP:20261023T164935Z
+DTSTART:20270930T023600Z
+DTEND:20270930T030600Z
+SUMMARY:New moon in Libra
+DESCRIPTION:Start of a lunar cycle of 29.5 days. The mood of Libra colors t
+ he weeks ahead: a marker for setting an intention. https://astralogie.com/
+ calendar/
+URL:https://astralogie.com/calendar/
+END:VEVENT
+BEGIN:VEVENT
+UID:20271015T1347-lune@astralogie.com
+DTSTAMP:20261023T164935Z
+DTSTART:20271015T134700Z
+DTEND:20271015T141700Z
+SUMMARY:Full moon in Aries
+DESCRIPTION:The Moon faces the Sun and shines all night. Symbolic reading: 
+ a point of culmination\, the moment to see what has ripened since the new 
+ moon. https://astralogie.com/calendar/
+URL:https://astralogie.com/calendar/
+END:VEVENT
+BEGIN:VEVENT
+UID:20271029T1337-lune@astralogie.com
+DTSTAMP:20261023T164935Z
+DTSTART:20271029T133700Z
+DTEND:20271029T140700Z
+SUMMARY:New moon in Scorpio
+DESCRIPTION:Start of a lunar cycle of 29.5 days. The mood of Scorpio colors
+  the weeks ahead: a marker for setting an intention. https://astralogie.co
+ m/calendar/
+URL:https://astralogie.com/calendar/
+END:VEVENT
+BEGIN:VEVENT
+UID:20271114T0326-lune@astralogie.com
+DTSTAMP:20261023T164935Z
+DTSTART:20271114T032600Z
+DTEND:20271114T035600Z
+SUMMARY:Full moon in Taurus
+DESCRIPTION:The Moon faces the Sun and shines all night. Symbolic reading: 
+ a point of culmination\, the moment to see what has ripened since the new 
+ moon. https://astralogie.com/calendar/
+URL:https://astralogie.com/calendar/
+END:VEVENT
+BEGIN:VEVENT
+UID:20271128T0324-lune@astralogie.com
+DTSTAMP:20261023T164935Z
+DTSTART:20271128T032400Z
+DTEND:20271128T035400Z
+SUMMARY:New moon in Sagittarius
+DESCRIPTION:Start of a lunar cycle of 29.5 days. The mood of Sagittarius co
+ lors the weeks ahead: a marker for setting an intention. https://astralogi
+ e.com/calendar/
+URL:https://astralogie.com/calendar/
+END:VEVENT
+BEGIN:VEVENT
+UID:20271213T1609-lune@astralogie.com
+DTSTAMP:20261023T164935Z
+DTSTART:20271213T160900Z
+DTEND:20271213T163900Z
+SUMMARY:Full moon in Gemini
+DESCRIPTION:The Moon faces the Sun and shines all night. Symbolic reading: 
+ a point of culmination\, the moment to see what has ripened since the new 
+ moon. https://astralogie.com/calendar/
+URL:https://astralogie.com/calendar/
+END:VEVENT
+BEGIN:VEVENT
+UID:20271227T2012-lune@astralogie.com
+DTSTAMP:20261023T164935Z
+DTSTART:20271227T201200Z
+DTEND:20271227T204200Z
+SUMMARY:New moon in Capricorn
+DESCRIPTION:Start of a lunar cycle of 29.5 days. The mood of Capricorn colo
+ rs the weeks ahead: a marker for setting an intention. https://astralogie.
+ com/calendar/
+URL:https://astralogie.com/calendar/
+END:VEVENT
+END:VCALENDAR

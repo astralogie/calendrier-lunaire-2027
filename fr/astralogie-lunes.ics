@@ -1,0 +1,348 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Astralogie//Calendrier du ciel//FR
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Astralogie, nouvelles et pleines lunes
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+UID:20261010T1550-lune@astralogie.fr
+DTSTAMP:20261023T164935Z
+DTSTART:20261010T155000Z
+DTEND:20261010T162000Z
+SUMMARY:Nouvelle lune en Balance
+DESCRIPTION:Début d'un cycle lunaire de 29\,5 jours. Le climat de la Bala
+ nce colore les semaines qui viennent : un repère pour poser une intentio
+ n. https://astralogie.fr/calendrier/
+URL:https://astralogie.fr/calendrier/
+END:VEVENT
+BEGIN:VEVENT
+UID:20261026T0412-lune@astralogie.fr
+DTSTAMP:20261023T164935Z
+DTSTART:20261026T041200Z
+DTEND:20261026T044200Z
+SUMMARY:Pleine lune en Taureau
+DESCRIPTION:La Lune fait face au Soleil et brille toute la nuit. Lecture s
+ ymbolique : un point d'aboutissement\, le moment de voir ce qui a mûri d
+ epuis la nouvelle lune. https://astralogie.fr/calendrier/
+URL:https://astralogie.fr/calendrier/
+END:VEVENT
+BEGIN:VEVENT
+UID:20261109T0702-lune@astralogie.fr
+DTSTAMP:20261023T164935Z
+DTSTART:20261109T070200Z
+DTEND:20261109T073200Z
+SUMMARY:Nouvelle lune en Scorpion
+DESCRIPTION:Début d'un cycle lunaire de 29\,5 jours. Le climat du Scorpio
+ n colore les semaines qui viennent : un repère pour poser une intention.
+  https://astralogie.fr/calendrier/
+URL:https://astralogie.fr/calendrier/
+END:VEVENT
+BEGIN:VEVENT
+UID:20261124T1454-lune@astralogie.fr
+DTSTAMP:20261023T164935Z
+DTSTART:20261124T145400Z
+DTEND:20261124T152400Z
+SUMMARY:Pleine lune en Gémeaux
+DESCRIPTION:La Lune fait face au Soleil et brille toute la nuit. Lecture s
+ ymbolique : un point d'aboutissement\, le moment de voir ce qui a mûri d
+ epuis la nouvelle lune. https://astralogie.fr/calendrier/
+URL:https://astralogie.fr/calendrier/
+END:VEVENT
+BEGIN:VEVENT
+UID:20261209T0052-lune@astralogie.fr
+DTSTAMP:20261023T164935Z
+DTSTART:20261209T005200Z
+DTEND:20261209T012200Z
+SUMMARY:Nouvelle lune en Sagittaire
+DESCRIPTION:Début d'un cycle lunaire de 29\,5 jours. Le climat du Sagitta
+ ire colore les semaines qui viennent : un repère pour poser une intentio
+ n. https://astralogie.fr/calendrier/
+URL:https://astralogie.fr/calendrier/
+END:VEVENT
+BEGIN:VEVENT
+UID:20261224T0128-lune@astralogie.fr
+DTSTAMP:20261023T164935Z
+DTSTART:20261224T012800Z
+DTEND:20261224T015800Z
+SUMMARY:Pleine lune en Cancer
+DESCRIPTION:La Lune fait face au Soleil et brille toute la nuit. Lecture s
+ ymbolique : un point d'aboutissement\, le moment de voir ce qui a mûri d
+ epuis la nouvelle lune. https://astralogie.fr/calendrier/
+URL:https://astralogie.fr/calendrier/
+END:VEVENT
+BEGIN:VEVENT
+UID:20270107T2025-lune@astralogie.fr
+DTSTAMP:20261023T164935Z
+DTSTART:20270107T202500Z
+DTEND:20270107T205500Z
+SUMMARY:Nouvelle lune en Capricorne
+DESCRIPTION:Début d'un cycle lunaire de 29\,5 jours. Le climat du Caprico
+ rne colore les semaines qui viennent : un repère pour poser une intentio
+ n. https://astralogie.fr/calendrier/
+URL:https://astralogie.fr/calendrier/
+END:VEVENT
+BEGIN:VEVENT
+UID:20270122T1217-lune@astralogie.fr
+DTSTAMP:20261023T164935Z
+DTSTART:20270122T121700Z
+DTEND:20270122T124700Z
+SUMMARY:Pleine lune en Lion
+DESCRIPTION:La Lune fait face au Soleil et brille toute la nuit. Lecture s
+ ymbolique : un point d'aboutissement\, le moment de voir ce qui a mûri d
+ epuis la nouvelle lune. https://astralogie.fr/calendrier/
+URL:https://astralogie.fr/calendrier/
+END:VEVENT
+BEGIN:VEVENT
+UID:20270206T1556-lune@astralogie.fr
+DTSTAMP:20261023T164935Z
+DTSTART:20270206T155600Z
+DTEND:20270206T162600Z
+SUMMARY:Nouvelle lune en Verseau
+DESCRIPTION:Début d'un cycle lunaire de 29\,5 jours. Le climat du Verseau
+  colore les semaines qui viennent : un repère pour poser une intention. 
+ https://astralogie.fr/calendrier/
+URL:https://astralogie.fr/calendrier/
+END:VEVENT
+BEGIN:VEVENT
+UID:20270220T2324-lune@astralogie.fr
+DTSTAMP:20261023T164935Z
+DTSTART:20270220T232400Z
+DTEND:20270220T235400Z
+SUMMARY:Pleine lune en Vierge
+DESCRIPTION:La Lune fait face au Soleil et brille toute la nuit. Lecture s
+ ymbolique : un point d'aboutissement\, le moment de voir ce qui a mûri d
+ epuis la nouvelle lune. https://astralogie.fr/calendrier/
+URL:https://astralogie.fr/calendrier/
+END:VEVENT
+BEGIN:VEVENT
+UID:20270308T0930-lune@astralogie.fr
+DTSTAMP:20261023T164935Z
+DTSTART:20270308T093000Z
+DTEND:20270308T100000Z
+SUMMARY:Nouvelle lune en Poissons
+DESCRIPTION:Début d'un cycle lunaire de 29\,5 jours. Le climat des Poisso
+ ns colore les semaines qui viennent : un repère pour poser une intention
+ . https://astralogie.fr/calendrier/
+URL:https://astralogie.fr/calendrier/
+END:VEVENT
+BEGIN:VEVENT
+UID:20270322T1044-lune@astralogie.fr
+DTSTAMP:20261023T164935Z
+DTSTART:20270322T104400Z
+DTEND:20270322T111400Z
+SUMMARY:Pleine lune en Balance
+DESCRIPTION:La Lune fait face au Soleil et brille toute la nuit. Lecture s
+ ymbolique : un point d'aboutissement\, le moment de voir ce qui a mûri d
+ epuis la nouvelle lune. https://astralogie.fr/calendrier/
+URL:https://astralogie.fr/calendrier/
+END:VEVENT
+BEGIN:VEVENT
+UID:20270406T2351-lune@astralogie.fr
+DTSTAMP:20261023T164935Z
+DTSTART:20270406T235100Z
+DTEND:20270407T002100Z
+SUMMARY:Nouvelle lune en Bélier
+DESCRIPTION:Début d'un cycle lunaire de 29\,5 jours. Le climat du Bélier
+  colore les semaines qui viennent : un repère pour poser une intention. 
+ https://astralogie.fr/calendrier/
+URL:https://astralogie.fr/calendrier/
+END:VEVENT
+BEGIN:VEVENT
+UID:20270420T2227-lune@astralogie.fr
+DTSTAMP:20261023T164935Z
+DTSTART:20270420T222700Z
+DTEND:20270420T225700Z
+SUMMARY:Pleine lune en Scorpion
+DESCRIPTION:La Lune fait face au Soleil et brille toute la nuit. Lecture s
+ ymbolique : un point d'aboutissement\, le moment de voir ce qui a mûri d
+ epuis la nouvelle lune. https://astralogie.fr/calendrier/
+URL:https://astralogie.fr/calendrier/
+END:VEVENT
+BEGIN:VEVENT
+UID:20270506T1059-lune@astralogie.fr
+DTSTAMP:20261023T164935Z
+DTSTART:20270506T105900Z
+DTEND:20270506T112900Z
+SUMMARY:Nouvelle lune en Taureau
+DESCRIPTION:Début d'un cycle lunaire de 29\,5 jours. Le climat du Taureau
+  colore les semaines qui viennent : un repère pour poser une intention. 
+ https://astralogie.fr/calendrier/
+URL:https://astralogie.fr/calendrier/
+END:VEVENT
+BEGIN:VEVENT
+UID:20270520T1059-lune@astralogie.fr
+DTSTAMP:20261023T164935Z
+DTSTART:20270520T105900Z
+DTEND:20270520T112900Z
+SUMMARY:Pleine lune en Scorpion
+DESCRIPTION:La Lune fait face au Soleil et brille toute la nuit. Lecture s
+ ymbolique : un point d'aboutissement\, le moment de voir ce qui a mûri d
+ epuis la nouvelle lune. https://astralogie.fr/calendrier/
+URL:https://astralogie.fr/calendrier/
+END:VEVENT
+BEGIN:VEVENT
+UID:20270604T1940-lune@astralogie.fr
+DTSTAMP:20261023T164935Z
+DTSTART:20270604T194000Z
+DTEND:20270604T201000Z
+SUMMARY:Nouvelle lune en Gémeaux
+DESCRIPTION:Début d'un cycle lunaire de 29\,5 jours. Le climat des Gémea
+ ux colore les semaines qui viennent : un repère pour poser une intention
+ . https://astralogie.fr/calendrier/
+URL:https://astralogie.fr/calendrier/
+END:VEVENT
+BEGIN:VEVENT
+UID:20270619T0045-lune@astralogie.fr
+DTSTAMP:20261023T164935Z
+DTSTART:20270619T004500Z
+DTEND:20270619T011500Z
+SUMMARY:Pleine lune en Sagittaire
+DESCRIPTION:La Lune fait face au Soleil et brille toute la nuit. Lecture s
+ ymbolique : un point d'aboutissement\, le moment de voir ce qui a mûri d
+ epuis la nouvelle lune. https://astralogie.fr/calendrier/
+URL:https://astralogie.fr/calendrier/
+END:VEVENT
+BEGIN:VEVENT
+UID:20270704T0302-lune@astralogie.fr
+DTSTAMP:20261023T164935Z
+DTSTART:20270704T030200Z
+DTEND:20270704T033200Z
+SUMMARY:Nouvelle lune en Cancer
+DESCRIPTION:Début d'un cycle lunaire de 29\,5 jours. Le climat du Cancer 
+ colore les semaines qui viennent : un repère pour poser une intention. h
+ ttps://astralogie.fr/calendrier/
+URL:https://astralogie.fr/calendrier/
+END:VEVENT
+BEGIN:VEVENT
+UID:20270718T1545-lune@astralogie.fr
+DTSTAMP:20261023T164935Z
+DTSTART:20270718T154500Z
+DTEND:20270718T161500Z
+SUMMARY:Pleine lune en Capricorne
+DESCRIPTION:La Lune fait face au Soleil et brille toute la nuit. Lecture s
+ ymbolique : un point d'aboutissement\, le moment de voir ce qui a mûri d
+ epuis la nouvelle lune. https://astralogie.fr/calendrier/
+URL:https://astralogie.fr/calendrier/
+END:VEVENT
+BEGIN:VEVENT
+UID:20270802T1005-lune@astralogie.fr
+DTSTAMP:20261023T164935Z
+DTSTART:20270802T100500Z
+DTEND:20270802T103500Z
+SUMMARY:Nouvelle lune en Lion
+DESCRIPTION:Début d'un cycle lunaire de 29\,5 jours. Le climat du Lion co
+ lore les semaines qui viennent : un repère pour poser une intention. htt
+ ps://astralogie.fr/calendrier/
+URL:https://astralogie.fr/calendrier/
+END:VEVENT
+BEGIN:VEVENT
+UID:20270817T0729-lune@astralogie.fr
+DTSTAMP:20261023T164935Z
+DTSTART:20270817T072900Z
+DTEND:20270817T075900Z
+SUMMARY:Pleine lune en Verseau
+DESCRIPTION:La Lune fait face au Soleil et brille toute la nuit. Lecture s
+ ymbolique : un point d'aboutissement\, le moment de voir ce qui a mûri d
+ epuis la nouvelle lune. https://astralogie.fr/calendrier/
+URL:https://astralogie.fr/calendrier/
+END:VEVENT
+BEGIN:VEVENT
+UID:20270831T1741-lune@astralogie.fr
+DTSTAMP:20261023T164935Z
+DTSTART:20270831T174100Z
+DTEND:20270831T181100Z
+SUMMARY:Nouvelle lune en Vierge
+DESCRIPTION:Début d'un cycle lunaire de 29\,5 jours. Le climat de la Vier
+ ge colore les semaines qui viennent : un repère pour poser une intention
+ . https://astralogie.fr/calendrier/
+URL:https://astralogie.fr/calendrier/
+END:VEVENT
+BEGIN:VEVENT
+UID:20270915T2304-lune@astralogie.fr
+DTSTAMP:20261023T164935Z
+DTSTART:20270915T230400Z
+DTEND:20270915T233400Z
+SUMMARY:Pleine lune en Poissons
+DESCRIPTION:La Lune fait face au Soleil et brille toute la nuit. Lecture s
+ ymbolique : un point d'aboutissement\, le moment de voir ce qui a mûri d
+ epuis la nouvelle lune. https://astralogie.fr/calendrier/
+URL:https://astralogie.fr/calendrier/
+END:VEVENT
+BEGIN:VEVENT
+UID:20270930T0236-lune@astralogie.fr
+DTSTAMP:20261023T164935Z
+DTSTART:20270930T023600Z
+DTEND:20270930T030600Z
+SUMMARY:Nouvelle lune en Balance
+DESCRIPTION:Début d'un cycle lunaire de 29\,5 jours. Le climat de la Bala
+ nce colore les semaines qui viennent : un repère pour poser une intentio
+ n. https://astralogie.fr/calendrier/
+URL:https://astralogie.fr/calendrier/
+END:VEVENT
+BEGIN:VEVENT
+UID:20271015T1347-lune@astralogie.fr
+DTSTAMP:20261023T164935Z
+DTSTART:20271015T134700Z
+DTEND:20271015T141700Z
+SUMMARY:Pleine lune en Bélier
+DESCRIPTION:La Lune fait face au Soleil et brille toute la nuit. Lecture s
+ ymbolique : un point d'aboutissement\, le moment de voir ce qui a mûri d
+ epuis la nouvelle lune. https://astralogie.fr/calendrier/
+URL:https://astralogie.fr/calendrier/
+END:VEVENT
+BEGIN:VEVENT
+UID:20271029T1337-lune@astralogie.fr
+DTSTAMP:20261023T164935Z
+DTSTART:20271029T133700Z
+DTEND:20271029T140700Z
+SUMMARY:Nouvelle lune en Scorpion
+DESCRIPTION:Début d'un cycle lunaire de 29\,5 jours. Le climat du Scorpio
+ n colore les semaines qui viennent : un repère pour poser une intention.
+  https://astralogie.fr/calendrier/
+URL:https://astralogie.fr/calendrier/
+END:VEVENT
+BEGIN:VEVENT
+UID:20271114T0326-lune@astralogie.fr
+DTSTAMP:20261023T164935Z
+DTSTART:20271114T032600Z
+DTEND:20271114T035600Z
+SUMMARY:Pleine lune en Taureau
+DESCRIPTION:La Lune fait face au Soleil et brille toute la nuit. Lecture s
+ ymbolique : un point d'aboutissement\, le moment de voir ce qui a mûri d
+ epuis la nouvelle lune. https://astralogie.fr/calendrier/
+URL:https://astralogie.fr/calendrier/
+END:VEVENT
+BEGIN:VEVENT
+UID:20271128T0324-lune@astralogie.fr
+DTSTAMP:20261023T164935Z
+DTSTART:20271128T032400Z
+DTEND:20271128T035400Z
+SUMMARY:Nouvelle lune en Sagittaire
+DESCRIPTION:Début d'un cycle lunaire de 29\,5 jours. Le climat du Sagitta
+ ire colore les semaines qui viennent : un repère pour poser une intentio
+ n. https://astralogie.fr/calendrier/
+URL:https://astralogie.fr/calendrier/
+END:VEVENT
+BEGIN:VEVENT
+UID:20271213T1609-lune@astralogie.fr
+DTSTAMP:20261023T164935Z
+DTSTART:20271213T160900Z
+DTEND:20271213T163900Z
+SUMMARY:Pleine lune en Gémeaux
+DESCRIPTION:La Lune fait face au Soleil et brille toute la nuit. Lecture s
+ ymbolique : un point d'aboutissement\, le moment de voir ce qui a mûri d
+ epuis la nouvelle lune. https://astralogie.fr/calendrier/
+URL:https://astralogie.fr/calendrier/
+END:VEVENT
+BEGIN:VEVENT
+UID:20271227T2012-lune@astralogie.fr
+DTSTAMP:20261023T164935Z
+DTSTART:20271227T201200Z
+DTEND:20271227T204200Z
+SUMMARY:Nouvelle lune en Capricorne
+DESCRIPTION:Début d'un cycle lunaire de 29\,5 jours. Le climat du Caprico
+ rne colore les semaines qui viennent : un repère pour poser une intentio
+ n. https://astralogie.fr/calendrier/
+URL:https://astralogie.fr/calendrier/
+END:VEVENT
+END:VCALENDAR

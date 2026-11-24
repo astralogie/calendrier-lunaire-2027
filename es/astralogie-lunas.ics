@@ -1,0 +1,325 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Astralogie//Calendario astrológico//ES
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Astralogie · lunas nuevas y llenas
+X-WR-TIMEZONE:America/Mexico_City
+BEGIN:VEVENT
+UID:ev-20261109-nueva@astralogie.com
+DTSTAMP:20261119T102430Z
+DTSTART:20261109T070242Z
+DTEND:20261109T073242Z
+SUMMARY:Luna nueva en Escorpio
+DESCRIPTION:La astrología asocia una Luna nueva en Escorpio con mirar lo
+  que está escondido: vínculos intensos\, deudas\, temas que cuesta dec
+ ir. Más en https://astralogie.com/es/calendario/#ev-20261109-nueva
+URL:https://astralogie.com/es/calendario/#ev-20261109-nueva
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-20261124-llena@astralogie.com
+DTSTAMP:20261119T102430Z
+DTSTART:20261124T145404Z
+DTEND:20261124T152404Z
+SUMMARY:Luna llena en Géminis
+DESCRIPTION:Se junta lo que has hablado\, leído y aprendido\, y es buen 
+ momento para darle forma. Más en https://astralogie.com/es/calendario/#
+ ev-20261124-llena
+URL:https://astralogie.com/es/calendario/#ev-20261124-llena
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-20261208-nueva@astralogie.com
+DTSTAMP:20261119T102430Z
+DTSTART:20261209T005231Z
+DTEND:20261209T012231Z
+SUMMARY:Luna nueva en Sagitario
+DESCRIPTION:La astrología asocia una Luna nueva en Sagitario con ampliar
+  el horizonte: estudios\, viajes\, creencias. Más en https://astralogie
+ .com/es/calendario/#ev-20261208-nueva
+URL:https://astralogie.com/es/calendario/#ev-20261208-nueva
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-20261223-llena@astralogie.com
+DTSTAMP:20261119T102430Z
+DTSTART:20261224T012845Z
+DTEND:20261224T015845Z
+SUMMARY:Luna llena en Cáncer
+DESCRIPTION:Las emociones y los asuntos de familia se notan más. Lo que 
+ se acumuló en casa busca salida. Más en https://astralogie.com/es/cale
+ ndario/#ev-20261223-llena
+URL:https://astralogie.com/es/calendario/#ev-20261223-llena
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-20270107-nueva@astralogie.com
+DTSTAMP:20261119T102430Z
+DTSTART:20270107T202505Z
+DTEND:20270107T205505Z
+SUMMARY:Luna nueva en Capricornio
+DESCRIPTION:La astrología asocia una Luna nueva en Capricornio con las m
+ etas de largo plazo\, el trabajo y las responsabilidades. Más en https:
+ //astralogie.com/es/calendario/#ev-20270107-nueva
+URL:https://astralogie.com/es/calendario/#ev-20270107-nueva
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-20270122-llena@astralogie.com
+DTSTAMP:20261119T102430Z
+DTSTART:20270122T121750Z
+DTEND:20270122T124750Z
+SUMMARY:Luna llena en Leo
+DESCRIPTION:Lo que has creado busca público\, y la necesidad de reconoci
+ miento se hace sentir. Más en https://astralogie.com/es/calendario/#ev-
+ 20270122-llena
+URL:https://astralogie.com/es/calendario/#ev-20270122-llena
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-20270206-nueva@astralogie.com
+DTSTAMP:20261119T102430Z
+DTSTART:20270206T155647Z
+DTEND:20270206T162647Z
+SUMMARY:Luna nueva en Acuario
+DESCRIPTION:La astrología asocia una Luna nueva en Acuario con los proye
+ ctos en grupo\, las amistades y las ideas distintas. Más en https://ast
+ ralogie.com/es/calendario/#ev-20270206-nueva
+URL:https://astralogie.com/es/calendario/#ev-20270206-nueva
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-20270220-llena@astralogie.com
+DTSTAMP:20261119T102430Z
+DTSTART:20270220T232407Z
+DTEND:20270220T235407Z
+SUMMARY:Luna llena en Virgo
+DESCRIPTION:Se ve qué rutinas funcionan y cuáles te están agotando. M
+ ás en https://astralogie.com/es/calendario/#ev-20270220-llena
+URL:https://astralogie.com/es/calendario/#ev-20270220-llena
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-20270308-nueva@astralogie.com
+DTSTAMP:20261119T102430Z
+DTSTART:20270308T093007Z
+DTEND:20270308T100007Z
+SUMMARY:Luna nueva en Piscis
+DESCRIPTION:La astrología asocia una Luna nueva en Piscis con descansar\
+ , imaginar y cerrar un ciclo con calma. Más en https://astralogie.com/e
+ s/calendario/#ev-20270308-nueva
+URL:https://astralogie.com/es/calendario/#ev-20270308-nueva
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-20270322-llena@astralogie.com
+DTSTAMP:20261119T102430Z
+DTSTART:20270322T104419Z
+DTEND:20270322T111419Z
+SUMMARY:Luna llena en Libra
+DESCRIPTION:Una relación o un trato llega a un punto de equilibrio\, o d
+ e ruptura\, que hay que mirar de frente. Más en https://astralogie.com/
+ es/calendario/#ev-20270322-llena
+URL:https://astralogie.com/es/calendario/#ev-20270322-llena
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-20270406-nueva@astralogie.com
+DTSTAMP:20261119T102430Z
+DTSTART:20270406T235145Z
+DTEND:20270407T002145Z
+SUMMARY:Luna nueva en Aries
+DESCRIPTION:La astrología asocia una Luna nueva en Aries con arrancar al
+ go propio\, sin esperar a que todo esté listo. Más en https://astralog
+ ie.com/es/calendario/#ev-20270406-nueva
+URL:https://astralogie.com/es/calendario/#ev-20270406-nueva
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-20270420-llena@astralogie.com
+DTSTAMP:20261119T102430Z
+DTSTART:20270420T222744Z
+DTEND:20270420T225744Z
+SUMMARY:Luna llena en Escorpio
+DESCRIPTION:Sale a la luz lo que estaba guardado: un tema de dinero compa
+ rtido\, una verdad\, un vínculo. Más en https://astralogie.com/es/cale
+ ndario/#ev-20270420-llena
+URL:https://astralogie.com/es/calendario/#ev-20270420-llena
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-20270506-nueva@astralogie.com
+DTSTAMP:20261119T102430Z
+DTSTART:20270506T105910Z
+DTEND:20270506T112910Z
+SUMMARY:Luna nueva en Tauro
+DESCRIPTION:La astrología asocia una Luna nueva en Tauro con lo concreto
+ : el dinero\, el cuerpo y las rutinas que sí puedes sostener. Más en h
+ ttps://astralogie.com/es/calendario/#ev-20270506-nueva
+URL:https://astralogie.com/es/calendario/#ev-20270506-nueva
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-20270520-llena@astralogie.com
+DTSTAMP:20261119T102430Z
+DTSTART:20270520T105939Z
+DTEND:20270520T112939Z
+SUMMARY:Luna llena en Escorpio
+DESCRIPTION:Sale a la luz lo que estaba guardado: un tema de dinero compa
+ rtido\, una verdad\, un vínculo. Más en https://astralogie.com/es/cale
+ ndario/#ev-20270520-llena
+URL:https://astralogie.com/es/calendario/#ev-20270520-llena
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-20270604-nueva@astralogie.com
+DTSTAMP:20261119T102430Z
+DTSTART:20270604T194051Z
+DTEND:20270604T201051Z
+SUMMARY:Luna nueva en Géminis
+DESCRIPTION:La astrología asocia una Luna nueva en Géminis con pregunta
+ r\, conversar y ordenar las ideas antes de decidir. Más en https://astr
+ alogie.com/es/calendario/#ev-20270604-nueva
+URL:https://astralogie.com/es/calendario/#ev-20270604-nueva
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-20270618-llena@astralogie.com
+DTSTAMP:20261119T102430Z
+DTSTART:20270619T004501Z
+DTEND:20270619T011501Z
+SUMMARY:Luna llena en Sagitario
+DESCRIPTION:Se ve hasta dónde te llevó una idea o un viaje\, y si todav
+ ía te convence. Más en https://astralogie.com/es/calendario/#ev-202706
+ 18-llena
+URL:https://astralogie.com/es/calendario/#ev-20270618-llena
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-20270703-nueva@astralogie.com
+DTSTAMP:20261119T102430Z
+DTSTART:20270704T030232Z
+DTEND:20270704T033232Z
+SUMMARY:Luna nueva en Cáncer
+DESCRIPTION:La astrología asocia una Luna nueva en Cáncer con la casa\,
+  la familia y lo que te hace sentir en confianza. Más en https://astral
+ ogie.com/es/calendario/#ev-20270703-nueva
+URL:https://astralogie.com/es/calendario/#ev-20270703-nueva
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-20270718-llena@astralogie.com
+DTSTAMP:20261119T102430Z
+DTSTART:20270718T154536Z
+DTEND:20270718T161536Z
+SUMMARY:Luna llena en Capricornio
+DESCRIPTION:Se ve lo que el trabajo ha dado y lo que ha costado. Toca rev
+ isar si el esfuerzo va hacia donde quieres. Más en https://astralogie.c
+ om/es/calendario/#ev-20270718-llena
+URL:https://astralogie.com/es/calendario/#ev-20270718-llena
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-20270802-nueva@astralogie.com
+DTSTAMP:20261119T102430Z
+DTSTART:20270802T100542Z
+DTEND:20270802T103542Z
+SUMMARY:Luna nueva en Leo
+DESCRIPTION:La astrología asocia una Luna nueva en Leo con crear\, mostr
+ arte y hacer algo solo por gusto. Más en https://astralogie.com/es/cale
+ ndario/#ev-20270802-nueva
+URL:https://astralogie.com/es/calendario/#ev-20270802-nueva
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-20270817-llena@astralogie.com
+DTSTAMP:20261119T102430Z
+DTSTART:20270817T072919Z
+DTEND:20270817T075919Z
+SUMMARY:Luna llena en Acuario
+DESCRIPTION:Se pone a prueba el equilibrio entre lo tuyo y lo del grupo\,
+  entre la libertad y los vínculos. Más en https://astralogie.com/es/ca
+ lendario/#ev-20270817-llena
+URL:https://astralogie.com/es/calendario/#ev-20270817-llena
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-20270831-nueva@astralogie.com
+DTSTAMP:20261119T102430Z
+DTSTART:20270831T174140Z
+DTEND:20270831T181140Z
+SUMMARY:Luna nueva en Virgo
+DESCRIPTION:La astrología asocia una Luna nueva en Virgo con ajustar det
+ alles\, rutinas y hábitos de salud. Más en https://astralogie.com/es/c
+ alendario/#ev-20270831-nueva
+URL:https://astralogie.com/es/calendario/#ev-20270831-nueva
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-20270915-llena@astralogie.com
+DTSTAMP:20261119T102430Z
+DTSTART:20270915T230409Z
+DTEND:20270915T233409Z
+SUMMARY:Luna llena en Piscis
+DESCRIPTION:Se acaba un ciclo que llevaba tiempo madurando\, y con él sa
+ len cansancio y sensibilidad. Más en https://astralogie.com/es/calendar
+ io/#ev-20270915-llena
+URL:https://astralogie.com/es/calendario/#ev-20270915-llena
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-20270929-nueva@astralogie.com
+DTSTAMP:20261119T102430Z
+DTSTART:20270930T023634Z
+DTEND:20270930T030634Z
+SUMMARY:Luna nueva en Libra
+DESCRIPTION:La astrología asocia una Luna nueva en Libra con los acuerdo
+ s y con lo que se equilibra entre dos: pareja\, socios\, tratos. Más en
+  https://astralogie.com/es/calendario/#ev-20270929-nueva
+URL:https://astralogie.com/es/calendario/#ev-20270929-nueva
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-20271015-llena@astralogie.com
+DTSTAMP:20261119T102430Z
+DTSTART:20271015T134734Z
+DTEND:20271015T141734Z
+SUMMARY:Luna llena en Aries
+DESCRIPTION:Algo que empezaste por tu cuenta se ve completo\, para bien o
+  para mal\, y pide una decisión. Más en https://astralogie.com/es/cale
+ ndario/#ev-20271015-llena
+URL:https://astralogie.com/es/calendario/#ev-20271015-llena
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-20271029-nueva@astralogie.com
+DTSTAMP:20261119T102430Z
+DTSTART:20271029T133704Z
+DTEND:20271029T140704Z
+SUMMARY:Luna nueva en Escorpio
+DESCRIPTION:La astrología asocia una Luna nueva en Escorpio con mirar lo
+  que está escondido: vínculos intensos\, deudas\, temas que cuesta dec
+ ir. Más en https://astralogie.com/es/calendario/#ev-20271029-nueva
+URL:https://astralogie.com/es/calendario/#ev-20271029-nueva
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-20271113-llena@astralogie.com
+DTSTAMP:20261119T102430Z
+DTSTART:20271114T032625Z
+DTEND:20271114T035625Z
+SUMMARY:Luna llena en Tauro
+DESCRIPTION:Sale a la vista lo que has construido: cuánto vale\, cuánto
+  cuesta y qué conviene soltar. Más en https://astralogie.com/es/calend
+ ario/#ev-20271113-llena
+URL:https://astralogie.com/es/calendario/#ev-20271113-llena
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-20271127-nueva@astralogie.com
+DTSTAMP:20261119T102430Z
+DTSTART:20271128T032459Z
+DTEND:20271128T035459Z
+SUMMARY:Luna nueva en Sagitario
+DESCRIPTION:La astrología asocia una Luna nueva en Sagitario con ampliar
+  el horizonte: estudios\, viajes\, creencias. Más en https://astralogie
+ .com/es/calendario/#ev-20271127-nueva
+URL:https://astralogie.com/es/calendario/#ev-20271127-nueva
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-20271213-llena@astralogie.com
+DTSTAMP:20261119T102430Z
+DTSTART:20271213T160918Z
+DTEND:20271213T163918Z
+SUMMARY:Luna llena en Géminis
+DESCRIPTION:Se junta lo que has hablado\, leído y aprendido\, y es buen 
+ momento para darle forma. Más en https://astralogie.com/es/calendario/#
+ ev-20271213-llena
+URL:https://astralogie.com/es/calendario/#ev-20271213-llena
+END:VEVENT
+BEGIN:VEVENT
+UID:ev-20271227-nueva@astralogie.com
+DTSTAMP:20261119T102430Z
+DTSTART:20271227T201256Z
+DTEND:20271227T204256Z
+SUMMARY:Luna nueva en Capricornio
+DESCRIPTION:La astrología asocia una Luna nueva en Capricornio con las m
+ etas de largo plazo\, el trabajo y las responsabilidades. Más en https:
+ //astralogie.com/es/calendario/#ev-20271227-nueva
+URL:https://astralogie.com/es/calendario/#ev-20271227-nueva
+END:VEVENT
+END:VCALENDAR
